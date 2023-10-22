@@ -85,3 +85,6 @@ body {
     opacity: var(--opacity);
     filter: blur(calc(var(--blur) * 10px));
   }
+  .wish{
+    color: white;
+  }
